@@ -16,7 +16,6 @@ get input from user
 apply lu decomposition formula
 ### Step 4:
 print the output
-
 ## Program:
 (i) To find the L and U matrix
 ``` python
@@ -44,7 +43,6 @@ B =eval(input())
 lu,piv=lu_factor(A)
 x=lu_solve((lu,piv),B)
 print(x)
-
 ```
 ## Output:
 ![OUTPUT](ut7.png)
