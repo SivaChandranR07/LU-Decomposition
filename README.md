@@ -23,7 +23,6 @@ print the output
 Program to find L and U matrix using LU decomposition.
 Developed by: Siva Chandran R
 RegisterNumber: 22005531
-
 # To print L and U matrix
 import numpy as np
 from scipy.linalg import lu
@@ -37,7 +36,6 @@ print(U)
 Program to solve a matrix using LU decomposition.
 Developed by: Siva Chandran R
 RegisterNumber: 22005531
-
 # To print X matrix (solution to the equations)
 import numpy as np
 from scipy.linalg import lu_factor,lu_solve
@@ -47,16 +45,10 @@ lu,piv=lu_factor(A)
 x=lu_solve((lu,piv),B)
 print(x)
 
-
 ```
-
-
 ## Output:
 ![OUTPUT](ut7.png)
 ![OUTPUT](ut8.png)
-
-
-
 
 ## Result:
 Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
