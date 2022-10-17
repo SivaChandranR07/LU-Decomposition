@@ -16,10 +16,9 @@ Step 4. print the output
 ## Program:
 (i) To find the L and U matrix
 ``` python
-'''Program to find L and U matrix using LU decomposition.
+Program to find L and U matrix using LU decomposition.
 Developed by: Siva Chandran R
 RegisterNumber: 22005531
-'''
 
 # To print L and U matrix
 import numpy as np
@@ -31,10 +30,9 @@ print(U)
 ```
 (ii) To find the LU Decomposition of a matrix
 ```python
-'''Program to solve a matrix using LU decomposition.
+Program to solve a matrix using LU decomposition.
 Developed by: Siva Chandran R
 RegisterNumber: 22005531
-'''
 
 # To print X matrix (solution to the equations)
 import numpy as np
