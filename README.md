@@ -1,5 +1,5 @@
 # LU Decomposition 
-## AIM:
+## Aim:
 To write a program to find the LU Decomposition of a matrix.
 ## Equipments Required:
 1. Hardware – PCs
